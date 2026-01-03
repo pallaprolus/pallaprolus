@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="Photo_Jacket.jpeg" width="150" style="border-radius: 50%;" alt="Sudhakar Pallaprolu"/>
-
 # Sudhakar Pallaprolu
 
 ### Lead AIOps Engineer & Cloud Architect
@@ -187,18 +185,6 @@ Judge/Reviewer for international conferences:
 - IEEE ICACT '25, IEEE ICSI '25
 - SPACSE '25, RTIP2R '25, ICDSINC '25
 - IACIS '25
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pallaprolus&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pallaprolus&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
