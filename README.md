@@ -68,6 +68,11 @@ Reverse-engineered Informatica Design API SDK to compress dataset onboarding fro
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+
+**AIOps & Intelligent Automation**
+
+![Moveworks](https://img.shields.io/badge/Moveworks-000000?style=flat-square&logoColor=white)
+![Nexthink](https://img.shields.io/badge/Nexthink_DEX-00B388?style=flat-square&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=flat-square&logo=servicenow&logoColor=white)
 
 **Languages**
