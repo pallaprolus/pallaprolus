@@ -1,10 +1,12 @@
 <div align="center">
 
+<img src="Photo_Jacket.jpeg" width="150" style="border-radius: 50%;" alt="Sudhakar Pallaprolu"/>
+
 # Sudhakar Pallaprolu
 
 ### Lead AIOps Engineer & Cloud Architect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sudhakarpallaprolu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/spallaprolu)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pallaprolus)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reachpallaprolu@gmail.com)
 
@@ -114,7 +116,7 @@ Unified autonomous framework solving the "Tri-State" IT fragmentation problem ac
 
 **Tech:** Moveworks, Nexthink, ServiceNow, Python, Selenium
 
-[![Read More](https://img.shields.io/badge/Case_Study-0066CC?style=flat-square)](https://linkedin.com/in/sudhakarpallaprolu)
+[![Read More](https://img.shields.io/badge/Case_Study-0066CC?style=flat-square)](https://linkedin.com/in/spallaprolu)
 
 </td>
 <td width="50%">
@@ -206,7 +208,7 @@ Judge/Reviewer for international conferences:
 
 I'm always interested in discussing **AIOps**, **intelligent automation**, and **cloud architecture**.
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sudhakarpallaprolu)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/spallaprolu)
 [![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reachpallaprolu@gmail.com)
 
 ---
